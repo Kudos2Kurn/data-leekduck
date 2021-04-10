@@ -1,0 +1,420 @@
+[
+  {
+    "tier": "1",
+    "no": 100,
+    "name": "霹靂電球",
+    "originalName": "Voltorb",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_100_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "electric"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png"
+    ],
+    "cp": {
+      "min": 532,
+      "max": 577
+    },
+    "boostedCp": {
+      "min": 665,
+      "max": 721
+    },
+    "boostedWeathers": [
+      "rainy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 403,
+    "name": "小貓怪",
+    "originalName": "Shinx",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_403_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "electric"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png"
+    ],
+    "cp": {
+      "min": 458,
+      "max": 500
+    },
+    "boostedCp": {
+      "min": 572,
+      "max": 625
+    },
+    "boostedWeathers": [
+      "rainy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 524,
+    "name": "石丸子",
+    "originalName": "Roggenrola",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_524_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "rock"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/rock.png"
+    ],
+    "cp": {
+      "min": 639,
+      "max": 688
+    },
+    "boostedCp": {
+      "min": 799,
+      "max": 860
+    },
+    "boostedWeathers": [
+      "partlycloudy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 599,
+    "name": "齒輪兒",
+    "originalName": "Klink",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_599_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "steel"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/steel.png"
+    ],
+    "cp": {
+      "min": 502,
+      "max": 546
+    },
+    "boostedCp": {
+      "min": 628,
+      "max": 683
+    },
+    "boostedWeathers": [
+      "snowy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/snowy.png"
+    ]
+  },
+  {
+    "tier": "1",
+    "no": 602,
+    "name": "麻麻小魚",
+    "originalName": "Tynamo",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_602_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "electric"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png"
+    ],
+    "cp": {
+      "min": 423,
+      "max": 463
+    },
+    "boostedCp": {
+      "min": 529,
+      "max": 579
+    },
+    "boostedWeathers": [
+      "rainy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 82,
+    "name": "三合一磁怪",
+    "originalName": "Magneton",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_082_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "electric",
+      "steel"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png",
+      "https://leekduck.com/assets/img/types/steel.png"
+    ],
+    "cp": {
+      "min": 1348,
+      "max": 1420
+    },
+    "boostedCp": {
+      "min": 1686,
+      "max": 1775
+    },
+    "boostedWeathers": [
+      "rainy",
+      "snowy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png",
+      "https://leekduck.com/assets/img/weather/snowy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 142,
+    "name": "化石翼龍",
+    "originalName": "Aerodactyl",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_142_00.png",
+    "shinyAvailable": true,
+    "types": [
+      "rock",
+      "flying"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/rock.png",
+      "https://leekduck.com/assets/img/types/flying.png"
+    ],
+    "cp": {
+      "min": 1515,
+      "max": 1590
+    },
+    "boostedCp": {
+      "min": 1894,
+      "max": 1988
+    },
+    "boostedWeathers": [
+      "partlycloudy",
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png",
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 306,
+    "name": "波士可多拉",
+    "originalName": "Aggron",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_306_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "steel",
+      "rock"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/steel.png",
+      "https://leekduck.com/assets/img/types/rock.png"
+    ],
+    "cp": {
+      "min": 1636,
+      "max": 1714
+    },
+    "boostedCp": {
+      "min": 2045,
+      "max": 2143
+    },
+    "boostedWeathers": [
+      "snowy",
+      "partlycloudy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/snowy.png",
+      "https://leekduck.com/assets/img/weather/partlycloudy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 426,
+    "name": "隨風球",
+    "originalName": "Drifblim",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_426_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "ghost",
+      "flying"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/ghost.png",
+      "https://leekduck.com/assets/img/types/flying.png"
+    ],
+    "cp": {
+      "min": 1287,
+      "max": 1361
+    },
+    "boostedCp": {
+      "min": 1609,
+      "max": 1701
+    },
+    "boostedWeathers": [
+      "foggy",
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/foggy.png",
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "3",
+    "no": 520,
+    "name": "咕咕鴿",
+    "originalName": "Tranquill",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_520_00.png",
+    "shinyAvailable": false,
+    "types": [
+      "normal",
+      "flying"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/normal.png",
+      "https://leekduck.com/assets/img/types/flying.png"
+    ],
+    "cp": {
+      "min": 770,
+      "max": 824
+    },
+    "boostedCp": {
+      "min": 963,
+      "max": 1030
+    },
+    "boostedWeathers": [
+      "partlycloudy",
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png",
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "5",
+    "no": 641,
+    "name": "龍捲雲 (靈獸形態)",
+    "originalName": "Tornadus (Therian)",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_641_12.png",
+    "shinyAvailable": false,
+    "types": [
+      "flying"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/flying.png"
+    ],
+    "cp": {
+      "min": 1756,
+      "max": 1837
+    },
+    "boostedCp": {
+      "min": 2196,
+      "max": 2296
+    },
+    "boostedWeathers": [
+      "windy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/windy.png"
+    ]
+  },
+  {
+    "tier": "mega",
+    "no": 94,
+    "name": "Mega 耿鬼",
+    "originalName": "Mega Gengar",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_094_51.png",
+    "shinyAvailable": true,
+    "types": [
+      "ghost",
+      "poison"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/ghost.png",
+      "https://leekduck.com/assets/img/types/poison.png"
+    ],
+    "cp": {
+      "min": 1566,
+      "max": 1644
+    },
+    "boostedCp": {
+      "min": 1958,
+      "max": 2055
+    },
+    "boostedWeathers": [
+      "foggy",
+      "cloudy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/foggy.png",
+      "https://leekduck.com/assets/img/weather/cloudy.png"
+    ]
+  },
+  {
+    "tier": "mega",
+    "no": 310,
+    "name": "Mega 雷電獸",
+    "originalName": "Mega Manectric",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_310_51.png",
+    "shinyAvailable": true,
+    "types": [
+      "electric"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/electric.png"
+    ],
+    "cp": {
+      "min": 1267,
+      "max": 1337
+    },
+    "boostedCp": {
+      "min": 1585,
+      "max": 1672
+    },
+    "boostedWeathers": [
+      "rainy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/rainy.png"
+    ]
+  },
+  {
+    "tier": "mega",
+    "no": 428,
+    "name": "Mega 長耳兔",
+    "originalName": "Mega Lopunny",
+    "imageUrl": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_428_51.png",
+    "shinyAvailable": true,
+    "types": [
+      "normal",
+      "fighting"
+    ],
+    "typeUrls": [
+      "https://leekduck.com/assets/img/types/normal.png",
+      "https://leekduck.com/assets/img/types/fighting.png"
+    ],
+    "cp": {
+      "min": 1112,
+      "max": 1177
+    },
+    "boostedCp": {
+      "min": 1391,
+      "max": 1471
+    },
+    "boostedWeathers": [
+      "partlycloudy"
+    ],
+    "boostedWeatherUrls": [
+      "https://leekduck.com/assets/img/weather/partlycloudy.png"
+    ]
+  }
+]

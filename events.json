@@ -1,0 +1,462 @@
+[
+  {
+    "title": "Snivy Community Day",
+    "link": "https://leekduck.com/events/april-communityday2021/",
+    "type": "社群日",
+    "imageUrl": "https://leekduck.com/assets/img/events/cd-april2021-snivy.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-11T11:00:00.000Z",
+    "endTime": "2021-04-11T17:00:00.000Z"
+  },
+  {
+    "title": "Snivy Community Day",
+    "link": "https://leekduck.com/events/april-communityday2021/",
+    "type": "社群日",
+    "imageUrl": "https://leekduck.com/assets/img/events/cd-april2021-snivy.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-11T11:00:00.000Z",
+    "endTime": "2021-04-11T17:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - All Leagues",
+    "link": "https://leekduck.com/events/season7-04-all-leagues/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattleleague-season1.jpg",
+    "label": "current",
+    "isLocaleTime": false,
+    "startTime": null,
+    "endTime": "2021-04-12T20:00:00.000Z"
+  },
+  {
+    "title": "Therian Forme Tornadus Debuts in Raids",
+    "link": "https://leekduck.com/events/therian-forme-tornadus-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/season-of-legends.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": null,
+    "endTime": "2021-04-13T10:00:00.000Z"
+  },
+  {
+    "title": "Mankey Spotlight Hour",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2021-04-13/",
+    "type": "寶可夢聚焦時刻",
+    "imageUrl": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-13T18:00:00.000Z",
+    "endTime": "2021-04-13T19:00:00.000Z"
+  },
+  {
+    "title": "Mankey Spotlight Hour",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2021-04-13/",
+    "type": "寶可夢聚焦時刻",
+    "imageUrl": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-13T18:00:00.000Z",
+    "endTime": "2021-04-13T19:00:00.000Z"
+  },
+  {
+    "title": "Therian Forme Landorus Raid Hour",
+    "link": "https://leekduck.com/events/legendaryraidhour20210414/",
+    "type": "團體戰晚餐約會",
+    "imageUrl": "https://leekduck.com/assets/img/events/raidhour.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-14T18:00:00.000Z",
+    "endTime": "2021-04-14T19:00:00.000Z"
+  },
+  {
+    "title": "Therian Forme Landorus Raid Hour",
+    "link": "https://leekduck.com/events/legendaryraidhour20210414/",
+    "type": "團體戰晚餐約會",
+    "imageUrl": "https://leekduck.com/assets/img/events/raidhour.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-14T18:00:00.000Z",
+    "endTime": "2021-04-14T19:00:00.000Z"
+  },
+  {
+    "title": "Rivals' Week",
+    "link": "https://leekduck.com/events/rivals-week-2021/",
+    "type": "活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/rivals-week-2021.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-13T10:00:00.000Z",
+    "endTime": "2021-04-18T20:00:00.000Z"
+  },
+  {
+    "title": "Rivals' Week",
+    "link": "https://leekduck.com/events/rivals-week-2021/",
+    "type": "活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/rivals-week-2021.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-13T10:00:00.000Z",
+    "endTime": "2021-04-18T20:00:00.000Z"
+  },
+  {
+    "title": "Mega Gengar and Mega Manectric will be appearing in Mega Raids",
+    "link": "https://leekduck.com/events/mega-gengar-manectric-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": null,
+    "endTime": "2021-04-20T10:00:00.000Z"
+  },
+  {
+    "title": "Grimer Spotlight Hour",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2021-04-20/",
+    "type": "寶可夢聚焦時刻",
+    "imageUrl": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-20T18:00:00.000Z",
+    "endTime": "2021-04-20T19:00:00.000Z"
+  },
+  {
+    "title": "Grimer Spotlight Hour",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2021-04-20/",
+    "type": "寶可夢聚焦時刻",
+    "imageUrl": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-20T18:00:00.000Z",
+    "endTime": "2021-04-20T19:00:00.000Z"
+  },
+  {
+    "title": "Therian Forme Landorus Raid Hour",
+    "link": "https://leekduck.com/events/legendaryraidhour20210421/",
+    "type": "團體戰晚餐約會",
+    "imageUrl": "https://leekduck.com/assets/img/events/raidhour.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-21T18:00:00.000Z",
+    "endTime": "2021-04-21T19:00:00.000Z"
+  },
+  {
+    "title": "Therian Forme Landorus Raid Hour",
+    "link": "https://leekduck.com/events/legendaryraidhour20210421/",
+    "type": "團體戰晚餐約會",
+    "imageUrl": "https://leekduck.com/assets/img/events/raidhour.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-21T18:00:00.000Z",
+    "endTime": "2021-04-21T19:00:00.000Z"
+  },
+  {
+    "title": "Friendship Day",
+    "link": "https://leekduck.com/events/friendship-day-2021/",
+    "type": "活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-24T10:00:00.000Z",
+    "endTime": "2021-04-24T20:00:00.000Z"
+  },
+  {
+    "title": "Friendship Day",
+    "link": "https://leekduck.com/events/friendship-day-2021/",
+    "type": "活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-24T10:00:00.000Z",
+    "endTime": "2021-04-24T20:00:00.000Z"
+  },
+  {
+    "title": "Sustainability Week",
+    "link": "https://leekduck.com/events/sustainability-week-2021/",
+    "type": "活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-20T10:00:00.000Z",
+    "endTime": "2021-04-25T20:00:00.000Z"
+  },
+  {
+    "title": "Sustainability Week",
+    "link": "https://leekduck.com/events/sustainability-week-2021/",
+    "type": "活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-20T10:00:00.000Z",
+    "endTime": "2021-04-25T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - Great League & Great League Remix Cup",
+    "link": "https://leekduck.com/events/season7-05-greatleague/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "label": "current",
+    "isLocaleTime": false,
+    "startTime": "2021-04-12T20:00:00.000Z",
+    "endTime": "2021-04-26T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - Great League & Great League Remix Cup",
+    "link": "https://leekduck.com/events/season7-05-greatleague/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "label": "upcoming",
+    "isLocaleTime": false,
+    "startTime": "2021-04-12T20:00:00.000Z",
+    "endTime": "2021-04-26T20:00:00.000Z"
+  },
+  {
+    "title": "Therian Forme Landorus Debuts in Raids",
+    "link": "https://leekduck.com/events/therian-forme-landorus-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/season-of-legends.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-13T10:00:00.000Z",
+    "endTime": "2021-04-27T10:00:00.000Z"
+  },
+  {
+    "title": "Therian Forme Landorus Debuts in Raids",
+    "link": "https://leekduck.com/events/therian-forme-landorus-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/season-of-legends.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-13T10:00:00.000Z",
+    "endTime": "2021-04-27T10:00:00.000Z"
+  },
+  {
+    "title": "Finneon Spotlight Hour",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2021-04-27/",
+    "type": "寶可夢聚焦時刻",
+    "imageUrl": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-27T18:00:00.000Z",
+    "endTime": "2021-04-27T19:00:00.000Z"
+  },
+  {
+    "title": "Finneon Spotlight Hour",
+    "link": "https://leekduck.com/events/pokemonspotlighthour2021-04-27/",
+    "type": "寶可夢聚焦時刻",
+    "imageUrl": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-27T18:00:00.000Z",
+    "endTime": "2021-04-27T19:00:00.000Z"
+  },
+  {
+    "title": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Raid Hour",
+    "link": "https://leekduck.com/events/legendaryraidhour20210428/",
+    "type": "團體戰晚餐約會",
+    "imageUrl": "https://leekduck.com/assets/img/events/raidhour.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": "2021-04-28T18:00:00.000Z",
+    "endTime": "2021-04-28T19:00:00.000Z"
+  },
+  {
+    "title": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Raid Hour",
+    "link": "https://leekduck.com/events/legendaryraidhour20210428/",
+    "type": "團體戰晚餐約會",
+    "imageUrl": "https://leekduck.com/assets/img/events/raidhour.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-28T18:00:00.000Z",
+    "endTime": "2021-04-28T19:00:00.000Z"
+  },
+  {
+    "title": "Mega Lopunny appearing in Mega Raids",
+    "link": "https://leekduck.com/events/a-surprise-mega-appearing-in-mega-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/mega-lopunny.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": null,
+    "endTime": "2021-04-30T10:00:00.000Z"
+  },
+  {
+    "title": "Giovanni's Shadow Zapdos",
+    "link": "https://leekduck.com/events/apr21giovannispecialresearch/",
+    "type": "其他活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/teamleaders-battle-recap.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": null,
+    "endTime": "2021-04-30T23:59:59.000Z"
+  },
+  {
+    "title": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Return to Raids",
+    "link": "https://leekduck.com/events/incarnate-forme-tornadus-thundurus-landorus-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/tornadus.jpg",
+    "label": "current",
+    "isLocaleTime": null,
+    "startTime": "2021-04-27T08:00:00.000Z",
+    "endTime": null
+  },
+  {
+    "title": "Incarnate Forme Tornadus, Incarnate Forme Thundurus, and Incarnate Forme Landorus Return to Raids",
+    "link": "https://leekduck.com/events/incarnate-forme-tornadus-thundurus-landorus-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/tornadus.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-27T08:00:00.000Z",
+    "endTime": null
+  },
+  {
+    "title": "April Research Breakthrough",
+    "link": "https://leekduck.com/events/april2021researchupdate/",
+    "type": "田野調查突破性獎勵",
+    "imageUrl": "https://leekduck.com/assets/img/events/SpringResearchBreakthrough.jpg",
+    "label": "current",
+    "isLocaleTime": false,
+    "startTime": null,
+    "endTime": "2021-05-01T20:00:00.000Z"
+  },
+  {
+    "title": "Mega Venusaur and Mega Abomasnow will be appearing in Mega Raids",
+    "link": "https://leekduck.com/events/mega-venusaur-abomasnow-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/megavenusaurraids.jpg",
+    "label": "current",
+    "isLocaleTime": null,
+    "startTime": "2021-04-20T10:00:00.000Z",
+    "endTime": null
+  },
+  {
+    "title": "Mega Venusaur and Mega Abomasnow will be appearing in Mega Raids",
+    "link": "https://leekduck.com/events/mega-venusaur-abomasnow-raids-2021/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/megavenusaurraids.jpg",
+    "label": "upcoming",
+    "isLocaleTime": true,
+    "startTime": "2021-04-20T10:00:00.000Z",
+    "endTime": null
+  },
+  {
+    "title": "Season 7 - Ultra League and its Premier Cup",
+    "link": "https://leekduck.com/events/season7-06-ultra-league-and-premier-cup/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "label": "current",
+    "isLocaleTime": false,
+    "startTime": "2021-04-26T20:00:00.000Z",
+    "endTime": "2021-05-10T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - Ultra League and its Premier Cup",
+    "link": "https://leekduck.com/events/season7-06-ultra-league-and-premier-cup/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+    "label": "upcoming",
+    "isLocaleTime": false,
+    "startTime": "2021-04-26T20:00:00.000Z",
+    "endTime": "2021-05-10T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - Master League, Master League Classic, and the Retro Cup",
+    "link": "https://leekduck.com/events/season7-07-master-league/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "label": "current",
+    "isLocaleTime": false,
+    "startTime": "2021-05-10T20:00:00.000Z",
+    "endTime": "2021-05-17T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - Master League, Master League Classic, and the Retro Cup",
+    "link": "https://leekduck.com/events/season7-07-master-league/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+    "label": "upcoming",
+    "isLocaleTime": false,
+    "startTime": "2021-05-10T20:00:00.000Z",
+    "endTime": "2021-05-17T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - All Leagues",
+    "link": "https://leekduck.com/events/season7-08-all-leagues/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattleleague-season1.jpg",
+    "label": "current",
+    "isLocaleTime": false,
+    "startTime": "2021-05-17T20:00:00.000Z",
+    "endTime": "2021-05-24T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - All Leagues",
+    "link": "https://leekduck.com/events/season7-08-all-leagues/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattleleague-season1.jpg",
+    "label": "upcoming",
+    "isLocaleTime": false,
+    "startTime": "2021-05-17T20:00:00.000Z",
+    "endTime": "2021-05-24T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - Unranked Kanto Cup",
+    "link": "https://leekduck.com/events/season7-09-kanto-cup/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "label": "current",
+    "isLocaleTime": false,
+    "startTime": "2021-05-24T20:00:00.000Z",
+    "endTime": "2021-05-31T20:00:00.000Z"
+  },
+  {
+    "title": "Season 7 - Unranked Kanto Cup",
+    "link": "https://leekduck.com/events/season7-09-kanto-cup/",
+    "type": "GO 對戰聯盟",
+    "imageUrl": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+    "label": "upcoming",
+    "isLocaleTime": false,
+    "startTime": "2021-05-24T20:00:00.000Z",
+    "endTime": "2021-05-31T20:00:00.000Z"
+  },
+  {
+    "title": "Season of Legends",
+    "link": "https://leekduck.com/events/season-of-legends/",
+    "type": "活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/season-of-legends.jpg",
+    "label": "current",
+    "isLocaleTime": true,
+    "startTime": null,
+    "endTime": "2021-06-01T10:00:00.000Z"
+  },
+  {
+    "title": "Temporary Features and Bonuses",
+    "link": "https://leekduck.com/events/updatedtemporaryfeaturesandbonuses/",
+    "type": "其他活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/temporarybonsuses.jpg",
+    "label": "current",
+    "isLocaleTime": null,
+    "startTime": "2020-10-01T20:00:00.000Z",
+    "endTime": null
+  },
+  {
+    "title": "Temporary Features and Bonuses",
+    "link": "https://leekduck.com/events/updatedtemporaryfeaturesandbonuses/",
+    "type": "其他活動",
+    "imageUrl": "https://leekduck.com/assets/img/events/temporarybonsuses.jpg",
+    "label": "upcoming",
+    "isLocaleTime": false,
+    "startTime": "2020-10-01T20:00:00.000Z",
+    "endTime": null
+  },
+  {
+    "title": "Kyurem in Raids, Mega Abomasnow Debuts",
+    "link": "https://leekduck.com/events/kyuremreturnstoraids2020/",
+    "type": "團體戰",
+    "imageUrl": "https://leekduck.com/assets/img/events/kyurem.jpg",
+    "label": "upcoming",
+    "isLocaleTime": false,
+    "startTime": "2020-12-01T21:00:00.000Z",
+    "endTime": null
+  }
+]
